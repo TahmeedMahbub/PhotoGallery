@@ -1,0 +1,14 @@
+D:\OOP-2\Photo\bin\Debug\Photo.exe.config
+D:\OOP-2\Photo\bin\Debug\Photo.exe
+D:\OOP-2\Photo\bin\Debug\Photo.pdb
+D:\OOP-2\Photo\obj\Debug\Photo.Properties.Resources.resources
+D:\OOP-2\Photo\obj\Debug\Photo.csproj.GenerateResource.cache
+D:\OOP-2\Photo\obj\Debug\Photo.csproj.CoreCompileInputs.cache
+D:\OOP-2\Photo\obj\Debug\Photo.exe
+D:\OOP-2\Photo\obj\Debug\Photo.pdb
+D:\OOP-2\Photo\obj\Debug\Photo.csprojAssemblyReference.cache
+D:\OOP-2\Photo\obj\Debug\Photo.HomePage.resources
+D:\OOP-2\Photo\obj\Debug\Photo.Account.resources
+D:\OOP-2\Photo\obj\Debug\Photo.UploadPhoto.resources
+D:\OOP-2\Photo\obj\Debug\Photo.Album.resources
+D:\OOP-2\Photo\obj\Debug\Photo.ModifyPhoto.resources
